@@ -1,0 +1,5 @@
+# Recycling_Rewards_UI
+
+Get ready to make a positive impact on the environment and earn rewards while you shop! The Recycling Rewards app is a college project that aims to encourage sustainable shopping habits. Using this app, customers can earn rewards by purchasing products that have been deemed sustainable based on their emissions during production and transportation. Each product is assigned a score and tagged with a barcode, which customers can scan using the app's inbuilt barcode scanner. The more sustainable products you purchase, the higher the rewards you will receive.
+
+The app features an intuitive user-friendly interface that makes it easy to navigate through different products and rewards. It's designed and developed to provide an enjoyable and easy way to shop sustainably and earn rewards. Not only does it promote sustainable shopping, but it also rewards users for making eco-friendly choices. So, don't wait any longer, download the Recycling Rewards app now and start earning rewards for making a difference in the world. You can make a change one purchase at a time!
